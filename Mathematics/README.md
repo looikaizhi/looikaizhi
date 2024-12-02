@@ -1,4 +1,4 @@
-# LATEX数学符合
+# LATEX数学符号
 只供自己学习，原作为 https://blog.csdn.net/weixin_42067279/article/details/104324141
 
 ![Images](./4951ea39ca74826089da5dbf5df38242.png)
